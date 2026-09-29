@@ -31,3 +31,4 @@ Clone this repo and open `index.html` in a browser. No setup needed — the game
 ## Screenshot
   ![X win](X-win.png) 
   ![O win](O-win.png)
+  ![demo](demo.gif)
